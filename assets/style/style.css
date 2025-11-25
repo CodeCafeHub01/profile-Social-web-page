@@ -47,6 +47,8 @@ ul {
 .picture img {
   height: 9rem;
   width: 9rem;
+  border-radius: 50%;
+  border: 5px solid rgb(121, 2, 2);
 }
 .name {
   padding: 1rem 0;
